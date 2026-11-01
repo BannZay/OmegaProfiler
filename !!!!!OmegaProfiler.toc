@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: OmegaProfiler
+## Notes: Live addon CPU/memory profiler with zoomable graph, load-time profiling and UI lag detection (/omp).
+## Author: BannZay
+## Version: 1.0
+## SavedVariables: OmegaProfilerDB
+## X-License: MIT
+## X-Category: Development Tools
+## X-Website: https://github.com/BannZay/OmegaProfiler
+## X-Commands: /omp, /profiler
+
+src\Core.lua
+src\Series.lua
+src\Persist.lua
+src\Classify.lua
+src\Pack.lua
+src\Sampler.lua
+src\LagDetector.lua
+src\LoadProfile.lua
+src\Graph.lua
+src\UI.lua
+src\Extras.lua
